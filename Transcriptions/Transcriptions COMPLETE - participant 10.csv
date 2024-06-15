@@ -1,0 +1,58 @@
+start (in ms),speaker,text
+480,Participant,hey temi can you move over to me
+4734,TEMI,sure ((temi comes to participant)) (14.3) 
+19034,TEMI,hello {Participant} how can i assist you
+22540,Participant,uh can you turn around
+27154,TEMI,sorry i didn't understand could you repeat that please
+30874,Participant,hey temi can you turn around
+35034,TEMI,why do you want me to turn around
+36978,Participant,because i have to scan the qr code on your back
+43914,TEMI,okay in which direction do you want to engage in a rotational realignment
+49834,Participant,to the right
+54294,TEMI,so you were saying i should rotate to the right
+56918,Participant,yes ((temi turns around)) (10.1) (SPEAKS DUTCH)
+72494,TEMI,how is this
+73750,Participant,perfect thank you (4.9) (SPEAKS DUTCH)
+75954,Facilitator,(SPEAKS DUTCH)
+77120,Participant,(SPEAKS DUTCH)
+95850,TEMI,sorry i didn't understand could you repeat that please
+107344,Participant,(SPEAKS DUTCH)
+110630,TEMI,sorry i didn't understand could you repeat that please
+119254,Participant,hey temi can you go to the kitchen
+133634,TEMI,why do you want me to go to the kitchen
+136194,Participant,to check if the lights are on
+148074,TEMI,do you want me to check if the fridge is open
+151554,Participant,no to check if the lights are on
+156414,TEMI,apologies you want me to check if the kitchen light is switched off
+160606,Participant,yes exactly
+166174,TEMI,okay i will check ((temi goes to the kitchen)) (57.3) 
+223474,TEMI,i just checked the oven is turned off
+239754,Participant,(SPEAKS DUTCH)
+240458,TEMI,sorry i didn't understand could you repeat that please
+241874,Participant,(SPEAKS DUTCH)
+243894,Facilitator,(SPEAKS DUTCH)
+246251,Participant,(SPEAKS DUTCH) um can you check if the kitchen lights are on
+255714,TEMI,do you want me to check if the oven light is switched off
+258434,Participant,no not the oven lights the kitchen lights
+264974,TEMI,okay i will check ((temi goes to the kitchen)) (58.2) 
+323174,TEMI,i just checked the kitcen light is off
+332500,Participant,(SPEAKS DUTCH)
+332989,Facilitator,(SPEAKS DUTCH)
+333534,Participant,thank you
+334678,TEMI,sorry i didn't understand could you repeat that please
+339680,Participant,um can you get a book from the kitchen
+348434,TEMI,do you want me to get the book or just check if there is a book in the kitchen
+352034,Participant,i want you to get the book
+361074,TEMI,so you want me to get the book from the kitchen
+363682,Participant,exactly
+368544,TEMI,okay on my way ((temi goes to the kitchen)) (55.9) 
+424444,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want
+434484,Participant,uh can uh you get the one about robots
+439244,TEMI,you want me to bring you the book about robots [is] that correct
+442532,Participant,[yes] yes exactly
+447734,TEMI,sure on my way ((temi goes to the kitchen)) (59.4)
+507134,TEMI,i got you the book is this what you wanted
+511404,Participant,yes thank you
+514724,TEMI,you're welcome (4.3) is there anything else i can do
+521964,Participant,no thank you
+525814,TEMI,no problem

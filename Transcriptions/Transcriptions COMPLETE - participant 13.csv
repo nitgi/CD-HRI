@@ -1,0 +1,68 @@
+start (in ms),speaker,text
+5040,Participant,hey temi can you come here
+12093,TEMI,sure ((temi comes to participant)) (9.0)
+22214,TEMI,hello {Participant} how can i assist you
+25214,Participant,can you turn around for me
+30184,TEMI,why do you want me to turn around
+32664,Participant,i need to see your back and scan the uhh code
+38144,TEMI,you want me to turn around
+39808,Participant,yes please
+44936,TEMI,okay In which direction do you want to engage in a rotational realignment
+49784,Participant,right
+54644,TEMI,okay ((temi turns around)) (4.0)
+69124,Participant,perfect
+70036,TEMI,how is this
+71284,Participant,perfect thank you
+75244,TEMI,youre welcome (13.0) is there anything else i can do
+90540,Participant,uh give me just a second
+113564,Facilitator,you can go to the next [task]   
+113431,Participant,[do what]
+114267,Facilitator,you can go to the next task
+119228,Participant,okay what is it just turning on the light
+122236,Facilitator,uh checking okay 
+123245,Participant,okay
+124456,facilitator,checking the light in the kitchen
+126884,Participant,okay hey temi can you check the light for me in the kitchen
+134504,TEMI,do you want me to check if the oven light is switched off
+138424,Participant,no i do not
+144664,TEMI,sorry i didn't understand
+146784,TEMI,could you repeat that please
+148608,Participant,can you check the light in the kitchen for me
+153304,TEMI,apologies you want me to check if the kitchen light is switched off
+157512,Participant,yes
+164484,TEMI,okay i check ((temi goes to the kitchen)) (58.0)
+229804,TEMI,i just checked the kitchen the light is off
+234174,Participant,thank you
+238360,TEMI,no problem
+241014,Participant,can you get a book for me in the kitchen
+247094,TEMI,sorry i didn't understand could you repeat that please
+251078,Participant,can you go to the kitchen and get a book
+257894,TEMI,do you want me to get the book or just check if there is a book in the kitchen
+261630,Participant,get the book
+267934,TEMI,okay on my way ((temi goes to the kitchen)) (52.0)
+322734,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want
+330214,Participant,pick one
+335934,TEMI,you want me to bring you the book about statistics is that correct
+339554,Participant,yes please
+344754,TEMI,okay on my way ((temi goes to the kitchen)) (62.0)
+409540,TEMI,i got you the book is that what you wanted
+412514,Participant,it was not can you bring me the book about statistics
+419344,TEMI,"oh sorry (1,5) you want me to bring you the book about statistics Is that correct"
+427504,Participant,yes
+432984,TEMI,on my way ((temi goes to the kitchen)) (49.0)
+488340,TEMI,i got you the book is that what you wanted
+491132,Participant,yes thank you
+495044,TEMI,youre welcome
+497814,Facilitator,you can also get it
+499220,TEMI,is there anything else i can do
+501374,Participant,can you bring it here bring it to me
+509341,TEMI,sure ((temi comes to participant)) (11.0)
+518027,Participant,thank [you]
+518854,TEMI,[how is] this
+520006,Participant,great
+522594,TEMI,youre welcome (8.0)
+536434,Participant,im waiting for him to say something (3.2)
+544194,TEMI,is there anything else I can do
+546634,Participant,uh uh no there is not (28.0)
+583714,TEMI,i am going home
+585754,Facilitator,good night temi

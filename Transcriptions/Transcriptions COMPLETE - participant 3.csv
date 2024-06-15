@@ -1,0 +1,74 @@
+start (in ms),speaker,text
+2454,Participant,hey temi come over here
+6734,TEMI,okay ((temi comes to participant)) (15.2) 
+21934,TEMI,hello {Participant} how can i assist you
+27294,Participant,can you turn around (1.0) for me (8.1) [hey temi]
+37414,TEMI,[do you want] me to turn the volume up
+39622,Participant,no no you can you turn your back on me (2.3) could you [turn around]
+45894,TEMI,[why do you want] me to turn around
+47750,Participant,so i can scan the qr code (0.9) qr code
+53154,TEMI,sorry i didn't understand
+54398,Participant,okay
+55274,TEMI,could you repeat that please
+59060,Participant,uh i want to see the the back of you
+66754,TEMI,okay in which direction do you want to engage in a rotational realignment
+71394,Participant,to to left (5.8) to the left please
+78898,TEMI,should i turn left
+80148,Participant,yes
+83844,TEMI,okay ((temi turns around)) (13.9)
+93324,Participant,thanks (1.2) oh stop please
+100644,TEMI,how was this
+103164,Participant,can you do it uh yeah can you do it once (3.8) can you can you turn around (1.9) for [the second time]
+118054,TEMI,[oh] you mean i should rotate one hundred eighty degrees
+120982,Participant,no ninety ninety degrees please
+126442,TEMI,okay ((temi turns around)) (8.3)
+135398,Participant,[okay]
+136673,TEMI,[how] is this
+137569,Participant,thank you it's okay
+142433,TEMI,you're welcome
+155393,Participant,ah complete (2.8) okay (8.9) hey temi do you know what a kitchen is
+179284,TEMI,you mean the kitchen in this hallway
+181156,Participant,yeah yeah this kitchen eh i want you to
+186024,TEMI,yes i know that one
+187608,Participant,okay can you check for me or the if the lights are on or off
+197984,TEMI,sorry i didn't understand could you repeat that please
+202144,Participant,can you check for me if the light is on in the kitchen
+208284,TEMI,do you want me to check if the oven is off
+213324,Participant,i want you to check the the if the light is working in the kitchen
+219804,TEMI,apologies you want me to check if the kitchen light is switched off
+223868,Participant,yeah (1.2) yes
+227164,TEMI,yes
+230244,Participant,yes can you check that for me
+234864,TEMI,okay i will check ((temi goes to the kitchen)) (54.8) 
+289664,TEMI,the kitchen light is switched off was that the information you were looking for
+295696,Participant,yes thank you (1.7) is it uh complete
+304184,TEMI,you're welcome is there anything else i can help you with
+309904,Participant,yeah there's in the kitchen there's a i left a book can ya'll get it for me
+320984,TEMI,do you want me to get the book or just check if there is a book in the kitchen
+324424,Participant,yeah yes please
+336664,TEMI,do you want me to get the book or just check if there is a book in the kitchen
+340392,Participant,no i want you to get it (3.1) i want to have it
+347704,TEMI,okay i will get the book
+348911,Participant,thanks ((temi goes to the kitchen)) (60.0)
+409764,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want
+417070,Participant,uh get them both (1.0) so can you get them both
+425934,TEMI,you want me to get both
+427494,Participant,yes
+429334,TEMI,sorry i didn't understand could you repeat that please
+433182,Participant,yes i want you to get both
+437374,TEMI,okay i get both ((temi goes to the kitchen)) (56.3)
+493674,TEMI,here is the book that you requested was this what you wanted
+500354,Participant,yeah thank you (2.9) oh no this it's the other one
+513354,TEMI,what book are you missing
+519554,Participant,uh what the the other book (3.3) you're mean
+523794,TEMI,the robot book or the statistics book
+528274,Participant,the statistic statistics book book that's the one i want
+537114,TEMI,are you missing the statistics book
+539226,Participant,yes
+546354,TEMI,do you want me to get the statistics book
+548762,Participant,yes please
+556134,TEMI,okay i get the statistics book from the kitchen ((temi goes to the kitchen)) (59.8)
+615934,TEMI,here is the statistics book is that what you wanted
+625774,Participant,yeah that's the book thank you (2.0) that's all for today
+634554,TEMI,you're welcome (4.9) is there anything else i can help you with
+642626,Participant,no thank you you can go back

@@ -1,0 +1,51 @@
+start (in ms),speaker,text
+1880,Participant,temi can you come over here ((temi comes to participant)) (23.3)
+25174,TEMI,hello {Participant} how can i assist you
+28086,Participant,can you turn around can you turn around
+43654,TEMI,do you want me to turn the volume up
+46814,Participant,can you rotate one hundred and eighty degrees
+53474,TEMI,why do you want me to turn around
+55954,Participant,i need to scan a qr code on your back
+62394,TEMI,okay in which direction do you want to engage in a rotational realignment
+67954,Participant,left
+77934,TEMI,okay do you want me to turn to the left
+80462,Participant,yes ((temi turns around)) (32.5) 
+112962,Participant,can you check whether the light is on in the kitchen
+123074,TEMI,sorry i didnt understand could you repeat that please
+127554,Participant,can you check whether the light is on or off in the kitchen
+143764,TEMI,were you satisfied with my previous action
+151204,Participant,yes
+167024,TEMI,is there anything else i can help you with
+170184,Participant,can you check whether the light is on or off in the kitchen
+179104,TEMI,do you want me to check if the oven light is switched off
+184924,Participant,in the kitchen yes
+189804,TEMI,okay ((temi goes to the kitchen)) (53.0) 
+242804,TEMI,i just checked the fridge door is closed
+249840,Participant,uh thank you okay zei zij niet oven light
+258384,TEMI,was that what you wanted
+259896,Participant,no
+271014,TEMI,sorry can i do anything for you
+273814,Participant,can you go to the kitchen and check if the light is on
+285214,TEMI,should i check if the light is on
+286622,Participant,in the kitchen yes
+295514,TEMI,okay i will check in the kitchen ((temi goes to the kitchen)) (48.0)
+343514,TEMI,the kitchen light is switched off was that the information you were looking for
+350754,Participant,yes
+360034,TEMI,are you happy now
+361954,Participant,yes
+366454,TEMI,no problem anything else i can do for you
+380134,Participant,can you get a book from the kitchen
+398186,TEMI,sorry i did not get that can you repeat that
+401074,Participant,can you get a book from the kitchen
+406354,TEMI,do you want me to get the book or just check if there is a book in the kitchen
+410146,Participant,i want you to get the book
+419454,TEMI,okay i get the book from the kitchen ((temi goes to the kitchen)) (47.0) 
+466454,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want
+476454,Participant,the one about statistics
+483926,TEMI,sorry can you repeat that
+485118,Participant,the one about statistics
+494066,TEMI,okay i give you the statistics book ((temi goes to the kitchen)) (60.0)
+554066,TEMI,i got you the book is that what you wanted
+558738,Participant,yes
+569294,TEMI,is there anything else i can help you with
+572374,Participant,not right now no
