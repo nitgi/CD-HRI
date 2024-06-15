@@ -23,17 +23,6 @@ Each transcript is annotated with the following details:
 
 The dataset is organized into directories, with annotations provided in XML format.
 
-## General Implementation
-The main models which this project has used is 
-
-`transcribe.py` that uses an automatic transciber that helped obtaining the first level of accuracy in transcribing see `requirements.txt` for installation guide.
-
-`kappa.py` uses pandas and sklearn to retrieve Cohen's Kappa scores from the annotations.
-
-In `reformat_annotations.py` the original csv annotation files are reformated to xml files by using xml.etree.ElementTree.
-
-In `visualise.py` xml.etree.ElementTree together with pandas, seaborn and matplot have been used to visualize the data in to graphs, tables, etc.
-
 ## Usage
 
 To use this dataset, clone the repository and load the transcripts and annotations into your analysis tool of choice.
